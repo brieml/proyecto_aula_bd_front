@@ -1,5 +1,5 @@
 // App.jsx (actualizado con Routes)
-import React from 'react';
+
 import { Link, Routes, Route } from 'react-router-dom';
 import CAPYlOGO from './assets/capy_logo.png';
 import Login from './auth/Login.tsx';
