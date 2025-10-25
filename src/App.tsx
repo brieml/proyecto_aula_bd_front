@@ -14,7 +14,7 @@ function App() {
           <div className="bg-gradient-to-b from-teal-800 to-cyan-500 min-h-screen flex flex-col items-center justify-center p-6">
             {/* Header Navigation */}
             <nav className="absolute top-6 right-6 flex space-x-8 text-white text-sm font-medium">
-              <a href="#" className="hover:underline">Explora Libremente</a>
+              <a href="#" className="hover:underline">Explora Libremente </a>
               <a href="#" className="hover:underline">Sobre Nosotros</a>
               <a href="#" className="hover:underline">Contáctanos</a>
             </nav>
